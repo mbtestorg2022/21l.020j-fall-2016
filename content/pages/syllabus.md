@@ -46,13 +46,66 @@ Grading
 
 The point value of each assignment (for a total of 100 points) follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class attendance, participation & preparation | 14% |
-| Two reading quizzes | 10% |
-| Short response papers (2 x 8 points) | 16% |
-| Longer 4–5 page essays (2 x 20 points) | 40% |
-| Team presentations including written memo | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance, participation & preparation
+{{< tdclose >}}
+{{< tdopen >}}
+14%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two reading quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short response papers (2 x 8 points)
+{{< tdclose >}}
+{{< tdopen >}}
+16%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Longer 4–5 page essays (2 x 20 points)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team presentations including written memo
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 What You Can Expect
 -------------------

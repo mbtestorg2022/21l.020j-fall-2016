@@ -4,31 +4,419 @@ title: Calendar
 uid: cefcbbfd-62cc-2e72-499f-af110bf0bd23
 ---
 
-| SES # | IN-CLASS ACTIVITIES | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction to course {{< br >}}{{< br >}} What do we mean by "globalization"? {{< br >}}{{< br >}} _Listen to:_ {{< br >}}{{< br >}} Adichie, Chimamanda Ngozi. "[The Danger of a Single Story](http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)." TEDGlobal. {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Discuss Chanda and Sen: the "big picture" of globalization | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Discuss "Quality Street" and "You Are a 14-Year-Old Arab Chick Who Just Moved to Texas" {{< br >}}{{< br >}} Globalization at the micro level: the family {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Discuss Lahiri and Alarcón {{< br >}}{{< br >}} Globalization: cultural mis-readings {{< br >}}{{< br >}}  | Begin working on Response Paper 1 |
-| 5 | Discuss Menocal | Response Paper 1 due |
-| 6 |  {{< br >}}{{< br >}} Discuss Chanda Ch. 4 and ISIS, the quest for a contemporary caliphate {{< br >}}{{< br >}} Elements of good writing: Joaquín {{< br >}}{{< br >}}  | Begin working on Essay 1 |
-| 7 |  {{< br >}}{{< br >}} Discuss Chanda Ch. 5–6 and "Gunga Din" {{< br >}}{{< br >}} _Listen to:_ {{< br >}}{{< br >}} Connolly, Sarah. "[Rule Brittania](https://www.youtube.com/watch?v=rB5Nbp_gmgQ)" (with [lyric annotations](https://www.youtube.com/watch?v=yHNfvJc99YY)). YouTube. {{< br >}}{{< br >}}  | Finish first version of Essay 1 |
-| 8 | Discuss Chamoiseau | First version of Essay 1 due |
-| 9 | Discuss _Papi_ | Return first versions of Essay 1 the day before Session 10 |
-| 10 | Discuss _Papi_ | Reading Quiz 1 |
-| 11 | Guest lecture on authenticy and music by [Prof. Patricia Tang](http://mta.mit.edu/person/patricia-tang) | Group project on world music genre |
-| 12 |  {{< br >}}{{< br >}} Discuss Byrne and group projects {{< br >}}{{< br >}} Caravana visitors {{< br >}}{{< br >}}  | Final version of Essay 1 due |
-| 13 | Discuss "Because She Looks Like a Child" and the article "Selling Sex for Visas" | &nbsp; |
-| 14 | Discuss "Seeking Asian Female" | &nbsp; |
-| 15 | Discuss _The Buddha in the Attic_ | Submit 3 ideas for presentation group |
-| 16 |  {{< br >}}{{< br >}} Discuss remainder of _The Buddha in the Attic_ {{< br >}}{{< br >}} Divide into presentation groups {{< br >}}{{< br >}}  | Begin working on Response Paper 2 |
-| 17 |  {{< br >}}{{< br >}} Discuss "The Crisis of Care in the Philippines" {{< br >}}{{< br >}} Watch "Chain of Love" {{< br >}}{{< br >}} Short presentation on memos {{< br >}}{{< br >}}  | Response Paper 2 due |
-| 18 |  {{< br >}}{{< br >}} Work on group presentation memos {{< br >}}{{< br >}} Discuss Chanda and Patton {{< br >}}{{< br >}}  | Work on presentations |
-| 19 |  {{< br >}}{{< br >}} Discuss "Contagion" and Ebola {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Presentation memo due {{< br >}}{{< br >}} Work on team presentations {{< br >}}{{< br >}} Begin working on first version of Essay 2 {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} Discuss "Infection Inequalities" and Zika {{< br >}}{{< br >}} Presentation on oral presentations {{< br >}}{{< br >}}  | &nbsp; |
-| 21 | Discuss "The Colombian Exchange" and Chanda Ch. 3 |  {{< br >}}{{< br >}} First version of Essay 2 due {{< br >}}{{< br >}} Work on team presentations {{< br >}}{{< br >}}  |
-| 22 | Discuss Chanda and "No Logo" | Work on team presentations |
-| 23 | Discuss EU, NAFTA, TPP | Reading Quiz 2 |
-| 24 | Team Presentations | &nbsp; |
-| 25 | Team Presentations | &nbsp; |
-| 26 | Final Discussion | Final version of Essay 2 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+IN-CLASS ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to course
+
+What do we mean by "globalization"?
+
+_Listen to:_
+
+Adichie, Chimamanda Ngozi. "[The Danger of a Single Story](http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)." TEDGlobal.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Chanda and Sen: the "big picture" of globalization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss "Quality Street" and "You Are a 14-Year-Old Arab Chick Who Just Moved to Texas"
+
+Globalization at the micro level: the family
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Lahiri and Alarcón
+
+Globalization: cultural mis-readings
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Begin working on Response Paper 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Menocal
+{{< tdclose >}}
+{{< tdopen >}}
+Response Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Chanda Ch. 4 and ISIS, the quest for a contemporary caliphate
+
+Elements of good writing: Joaquín
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Begin working on Essay 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Chanda Ch. 5–6 and "Gunga Din"
+
+_Listen to:_
+
+Connolly, Sarah. "[Rule Brittania](https://www.youtube.com/watch?v=rB5Nbp_gmgQ)" (with [lyric annotations](https://www.youtube.com/watch?v=yHNfvJc99YY)). YouTube.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finish first version of Essay 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Chamoiseau
+{{< tdclose >}}
+{{< tdopen >}}
+First version of Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss _Papi_
+{{< tdclose >}}
+{{< tdopen >}}
+Return first versions of Essay 1 the day before Session 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss _Papi_
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture on authenticy and music by [Prof. Patricia Tang](http://mta.mit.edu/person/patricia-tang)
+{{< tdclose >}}
+{{< tdopen >}}
+Group project on world music genre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss Byrne and group projects
+
+Caravana visitors
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final version of Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss "Because She Looks Like a Child" and the article "Selling Sex for Visas"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss "Seeking Asian Female"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss _The Buddha in the Attic_
+{{< tdclose >}}
+{{< tdopen >}}
+Submit 3 ideas for presentation group
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss remainder of _The Buddha in the Attic_
+
+Divide into presentation groups
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Begin working on Response Paper 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss "The Crisis of Care in the Philippines"
+
+Watch "Chain of Love"
+
+Short presentation on memos
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Response Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Work on group presentation memos
+
+Discuss Chanda and Patton
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Work on presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss "Contagion" and Ebola
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentation memo due
+
+Work on team presentations
+
+Begin working on first version of Essay 2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss "Infection Inequalities" and Zika
+
+Presentation on oral presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss "The Colombian Exchange" and Chanda Ch. 3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+First version of Essay 2 due
+
+Work on team presentations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Chanda and "No Logo"
+{{< tdclose >}}
+{{< tdopen >}}
+Work on team presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss EU, NAFTA, TPP
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Quiz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Team Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Team Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Final version of Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
