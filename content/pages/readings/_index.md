@@ -146,7 +146,7 @@ Wood, Graeme. "[What ISIS Really Wants](https://www.theatlantic.com/magazine/arc
 
 \[NC\] Ch. 4.
 
-[Chanda Ch. 4 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-4-reading-guide)
+{{% resource_link "bbbcc751-87ac-dbb8-7bf9-689a0e6d0d0d" "Chanda Ch. 4 Reading Guide" %}}
 
 
 {{< tdclose >}}
@@ -174,9 +174,9 @@ Elements of good writing: Joaquín
 
 [Seven Tips for Reader-Friendly Writing]({{< baseurl >}}/pages/readings/seven-tips-for-reader-friendly-writing)
 
-[Chanda Ch. 5 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-5-reading-guide)
+{{% resource_link "4fa4a79c-cdd4-e77f-6554-90259f4a7b51" "Chanda Ch. 5 Reading Guide" %}}
 
-[Chanda Ch. 6 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-6-reading-guide)
+{{% resource_link "d8b06e8c-4847-2464-4867-207ff15a6892" "Chanda Ch. 6 Reading Guide" %}}
 
 
 {{< tdclose >}}
@@ -364,7 +364,7 @@ Short presentation on memos
 
 Patton, Cindy. _Globalizing Aids_. University of Minnesota Press, 2002, pp. ix–xxvii, 27–34, 46–50, 73–81.
 
-[Chanda Ch. 7 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-7-reading-guide)
+{{% resource_link "f7c4cade-01a8-58eb-1738-65853313e92e" "Chanda Ch. 7 Reading Guide" %}}
 
 [The Craft of Effective Oral Presentations (PDF)]({{< baseurl >}}/resources/21l_020jf16_effectiveoralpres). Courtesy of Jane Dunphy. Used with permission.
 
@@ -462,7 +462,7 @@ Discuss "The Colombian Exchange" and Chanda Ch. 3
 
 \[NC\] Ch. 2–3, 6.
 
-[Chanda Ch. 3 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-3-reading-guide)
+{{% resource_link "f543b927-ee1e-f5f2-dd37-15a24322aa70" "Chanda Ch. 3 Reading Guide" %}}
 
 _Watch:_
 
@@ -486,7 +486,7 @@ Calmes, Jackie. "[Trans-Pacific Partnership Is Reached, but Faces Scrutiny in Co
 
 \[NC\] Ch. 8.
 
-[Chanda Ch. 8 Reading Guide](/courses/literature/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/readings/chanda-ch.-8-reading-guide)
+{{% resource_link "22265e1e-81fb-b3c5-badc-1921dee5cf48" "Chanda Ch. 8 Reading Guide" %}}
 
 
 {{< tdclose >}}
